@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ibus
+Icon=ibus
+Exec=ibus start
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true
