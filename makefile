@@ -8,5 +8,5 @@ tmux:
 	sh scripts/install_tmux.sh
 
 load_config:
-	mkdir -p tst/.config/
-	cp -rf configs/dotfile/* tst/.config/
+	cp -rf configs/dotfile/* ~/.config/
+	cp -f configs/zshrc ~/.zshrc
