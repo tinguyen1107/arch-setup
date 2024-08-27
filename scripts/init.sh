@@ -9,7 +9,9 @@ sudo pacman -Sy --noconfirm \
   zsh-syntax-highlighting \
   docker \
   docker-compose \
-  neofetch
+  neofetch \
+  ttf-roboto-mono-nerd \
+  lazygit
 
 # set up oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
