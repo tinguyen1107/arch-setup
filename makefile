@@ -4,6 +4,7 @@
 
 init:
 	sh scripts/init.sh
+
 tmux:
 	sh scripts/install_tmux.sh
 
@@ -19,3 +20,6 @@ ngrok:
 
 node:
 	sh scripts/install_node.sh
+
+rust:
+	sh scripts/install_rust.sh
