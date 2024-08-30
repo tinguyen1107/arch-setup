@@ -11,7 +11,11 @@ sudo pacman -Sy --noconfirm \
   docker-compose \
   neofetch \
   ttf-roboto-mono-nerd \
-  lazygit
+  lazygit \
+  flameshot \
+  bluez \
+  bluez-utils \
+  blueman
 
 # set up oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
