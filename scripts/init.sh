@@ -15,7 +15,8 @@ sudo pacman -Sy --noconfirm \
   flameshot \
   bluez \
   bluez-utils \
-  blueman
+  blueman \
+  yq
 
 # set up oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"

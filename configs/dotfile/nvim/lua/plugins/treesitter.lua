@@ -9,6 +9,10 @@ return {
       "lua",
       "vim",
       "rust",
+      "go",
+      "yaml",
+      "html",
+      "json",
       "typescript",
       "javascript",
     })
